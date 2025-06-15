@@ -6,5 +6,4 @@
 ### Constants
   Functions that return digits of some constants
 ### PlGeo
-  PlanarGeometry
-  unfinished!
+  PlanarGeometry-unfinished!
