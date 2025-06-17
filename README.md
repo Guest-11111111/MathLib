@@ -1,24 +1,24 @@
 # CHANGELOG
 
 ## v1.0.0-alpha
-  2 sections: /n
-  Planar Geometry /n
-  Regular Math /n
-  3 Constants: /n
-  e /n
-  pi /n
+  2 sections:  
+  Planar Geometry  
+  Regular Math  
+  3 Constants:  
+  e  
+  pi  
   phi 
 ## v1.0.0-beta
-  3 Sections: /n
-  Regular Math /n
-  Planar Geometry /n
-  Solid Geometry /n
-  Constants: /n
-  e /n
-  pi /n
-  phi /n
-  tau /n
-  Pythagorean Costant /n
-  Theodorus' Constant /n
-  Silver Ratio /n
-  Super Golden Ratio /n
+  3 Sections:  
+  Regular Math  
+  Planar Geometry  
+  Solid Geometry  
+  Constants:  
+  e  
+  pi  
+  phi  
+  tau  
+  Pythagorean Costant  
+  Theodorus' Constant  
+  Silver Ratio  
+  Super Golden Ratio  
