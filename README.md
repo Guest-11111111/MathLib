@@ -1,4 +1,5 @@
 # CHANGELOG
+
 ## v1.0.0-alpha
   2 sections: 
   Planar Geometry
